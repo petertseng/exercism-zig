@@ -6,5 +6,15 @@
   "ignore_pattern": "[Ee]xample",
   "solution_pattern": "[Ee]xample",
   "test_pattern": "[Tt]est",
-  "exercises": null
+  "exercises": [
+    {
+      "slug": "hello-world",
+      "uuid": "25a0331e-612f-48c1-8a3f-9b0e9601a2fa",
+      "core": true,
+      "auto_approve": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": ["hello"]
+    }
+  ]
 }
