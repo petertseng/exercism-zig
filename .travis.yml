@@ -9,3 +9,5 @@ install:
 
 script:
   - bin/configlet lint --track-id zig .
+  - sh test-good-exercises.sh
+  - sh test-broken-exercises.sh
