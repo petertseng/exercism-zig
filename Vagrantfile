@@ -4,7 +4,7 @@ Vagrant.configure('2') do |config|
     ln -s /vagrant /home/vagrant/repo
     pacman -Sy --noconfirm rxvt-unicode-terminfo
 
-    ver=0.6.0
+    ver=0.7.0
     f=zig-linux-x86_64-$ver
     curl -o $f.tar.xz https://ziglang.org/download/$ver/$f.tar.xz
     tar xJf $f.tar.xz
