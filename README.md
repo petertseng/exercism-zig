@@ -1,6 +1,6 @@
 # Exercism Zig Track
 
-[![Tests](https://github.com/exercism/zig/workflows/Tests/badge.svg?branch=master)](https://github.com/exercism/zig/actions?query=workflow%3ATests+branch%3Amaster)
+[![Tests](https://github.com/petertseng/exercism-zig/workflows/Tests/badge.svg?branch=master)](https://github.com/petertseng/exercism-zig/actions?query=workflow%3ATests+branch%3Amaster)
 
 Exercism exercises in Zig.
 
