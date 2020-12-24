@@ -23,6 +23,19 @@
       "unlocked_by": null,
       "difficulty": 1,
       "topics": ["integers"]
+    },
+    {
+      "slug": "resistor-color",
+      "uuid": "f49a0baa-a309-4814-a123-f41a2d770bdd",
+      "core": false,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": [
+        "arrays",
+        "pointers",
+        "enums",
+        "slices"
+      ]
     }
   ]
 }
